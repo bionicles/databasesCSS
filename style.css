@@ -1,0 +1,154 @@
+div.first{
+	display: block;
+}
+
+div.badge{
+	display: inline-block;
+	width: 15%;
+}
+
+div.badge img{
+	display: inline-block;
+	width: 100%;
+}
+
+div.learn{
+	display: inline-block;
+	width: 75%;
+	text-align: right;
+	vertical-align: bottom;
+	padding-bottom: 10px;
+}
+
+div.learn h3{
+	display: inline-block;
+	text-align: right;
+}
+
+div.second {
+	margin = 0;
+	width=100%;
+}
+
+div.second ul{
+	list-style: none;
+	margin: 0;
+	padding: 0 0 0 0;
+	text-align: left;
+}
+
+div.second ul li{
+	display: inline;
+	color: blue;
+	text-decoration: underline;
+	border: 1px solid black;
+	padding: 1% 3em 1% 3em;
+	margin: -2px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+div.second li.hidden{
+	color: white;
+	margin-top: 10px;
+	padding: 1% 88px 1% 0%;
+}
+
+div.background {
+	display: block;
+	background-color: black;
+	margin: 8px 0px 0px -2px;
+	width: 100%;
+	border: 1px solid black
+}
+
+div.pic {
+	display: inline-block;
+	width: 45%;
+}
+
+div.third {
+	display: inline-block;
+}
+
+div.third img{
+	width: 100%;
+	margin: 15px 15px 1px 15px;
+	border: 6pt solid silver;
+	display: inline-block;
+}
+
+div.what {
+	color:black;
+	border: 1px solid silver;
+	display: inline-block;
+	width: 46%;
+	vertical-align: top;
+	margin: 15px 0px 0px 50px;
+}
+
+div.title {
+	background-color: silver;
+	padding: 10px;	
+	font-weight: bold;
+}
+
+div.text {
+	background-color: white;
+	padding: 10px;
+}
+
+span.definition {
+	font-weight: bold;
+}
+
+div.fourth{
+	text-align: right;
+	color: lightblue;
+	margin-right: 40px;
+}
+
+div.fourth img{
+	height: 20px;
+}
+
+div.fourth span{
+	display: inline-block;
+	vertical-align: top;
+}
+
+div.fifth {
+	padding: 0px 20px 15px 7.5px;
+}
+
+div.fifth img{
+	width: 100%;
+	margin-bottom: -4px;
+}
+
+div.fifth div.text{
+	background-color:lightblue;
+	height: 160px;
+	font-size: 12px;
+}
+
+div.input {
+	text-align: right;
+	vertical-align: bottom;
+	background-color: lightblue;
+	padding: 15px;
+}
+
+div.input input{
+	background-color:navy;
+	color: white;
+	border: 4px solid black;
+	border-radius: 5px;
+}
+
+div.lower {
+	display: inline-block;
+	width: 23%;
+	vertical-align: top;
+	margin: 7.5px;
+}
