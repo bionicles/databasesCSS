@@ -5,6 +5,7 @@ div.first{
 div.badge{
 	display: inline-block;
 	width: 15%;
+	margin-left: 10px;
 }
 
 div.badge img{
